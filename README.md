@@ -1,5 +1,7 @@
 # InSpec GCP (Google Cloud Platform) Resource Pack
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/baef3a2b-1219-4dc3-ab84-11cf7d30c615.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/inspec-gcp?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/d85bd863-400b-4c00-8023-18ccc0914621.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/inspec-gcp?orgId=561911742905)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/64deb226-599b-42c7-8c30-b7d7e2c085da.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/inspec-gcp?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/99651667-48c9-4eb0-b951-5c3438144da2.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/inspec-gcp?orgId=561911742905)  
+
 * **Project State: Maintained**
 
 For more information on project states and SLAs, see [this documentation](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md).
